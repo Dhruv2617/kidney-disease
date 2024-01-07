@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/kidney_disease/mlruns/0/ecf3f68e1fd840da87cf617354ec74ff/artifacts
+end_time: 1704616020294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecf3f68e1fd840da87cf617354ec74ff
+run_name: resilient-shrike-830
+run_uuid: ecf3f68e1fd840da87cf617354ec74ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704616004495
+status: 3
+tags: []
+user_id: Dhruv
